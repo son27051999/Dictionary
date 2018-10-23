@@ -1,0 +1,4 @@
+hello	xin chào
+house	nhà
+why	tại sao
+fine	khỏe
